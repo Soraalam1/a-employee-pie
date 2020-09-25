@@ -1,9 +1,11 @@
 # A-Employee-Pie-Lab
 
+Creating a payroll system (UML must be approved by Mikaila before you code)
+
+
 ![github-small](https://github.com/Soraalam1/a-employee-pie/blob/master/PayUML.png?raw=true)
 
 
-Creating a payroll system (UML must be approved by Mikaila before you code)
 
 ### Part 1a - Create the following classes:
 - Person
