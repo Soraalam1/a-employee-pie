@@ -1,6 +1,6 @@
 # A-Employee-Pie-Lab
 
-https://github.com/Soraalam1/a-employee-pie/blob/master/PayUML.png?raw=true
+![github-small](https://github.com/Soraalam1/a-employee-pie/blob/master/PayUML.png?raw=true)
 
 
 Creating a payroll system (UML must be approved by Mikaila before you code)
